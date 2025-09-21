@@ -1,0 +1,20 @@
+header {
+  display: flex;
+}
+header section {
+  width: 50%;
+}
+header img {
+  width: 100%;
+  border-bottom-left-radius: 240px;
+}
+.contactInfo p {
+  display: inline;
+}
+.email {
+  float: right;
+}
+.leftSection {
+  margin: 20px;
+  margin-left: 20%;
+}

@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html { font-size: 16px; }
+body { 
+  font-size: 1rem; 
+  line-height: 1.5;
+  font-family: sans-serif;
+  color: #222;
+  background-color: #fff
+}
+h1 { 
+  font-size: 2.5rem; 
+  font-weight: bold;
+}
+h2 { 
+  font-size: 2.5rem; 
+  font-weight: bold;
+}
+h3 { 
+  font-size: 2.5rem; 
+  font-weight: bold;
+}
+h4 { font-size: 2.5rem; }
+h5 { font-size: 2.5rem; }
+h6 { font-size: 2.5rem; }
+a {
+  Color: inherit;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+ul, ol {
+  padding-left: 1.5rem;
+}
+input, button, textarea, select {
+  font: inherit;
+}
+button {
+  cursor: pointer;
+}
+.hidden {
+  display: none !important;
+}
+.container {
+  max-width: 1200px;
+  
+}
